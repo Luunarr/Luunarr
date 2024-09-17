@@ -2,7 +2,7 @@
 
 ## 🌟 À propos de moi
 
-Je suis **[Lunar]**, un jeune développeur passionné par Python en plein apprentissage. 💡 Actuellement, je travaille sur quelques projets intéressants pour améliorer mes compétences et explorer de nouvelles technologies.
+Je suis **[Lunar](https://github.com/Luunarr)**, un jeune développeur passionné par Python en plein apprentissage. 💡 Actuellement, je travaille sur quelques projets intéressants pour améliorer mes compétences et explorer de nouvelles technologies.
 
 ## 💬 Me contacter
 
