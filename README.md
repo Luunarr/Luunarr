@@ -10,11 +10,11 @@
 
 **Voici quelques-uns de mes projets sur lesquels je travaille actuellement :**
 
-1. **[DirHunt](https://github.com/Luunarr/Luunarr)**  
+1. **[DirHunt](https://github.com/Luunarr/Luunarr/dirhunt)**  
 
-2. **[MoonLib](https://github.com/Luunarr/Luunarr)**  
+2. **[MoonLib](https://github.com/Luunarr/Luunarr/moonlib)**  
 
-3. **[](https://github.com/Luunarr/Luunarr)**  
+3. **[zNoNa-Shell](https://github.com/Luunarr/Luunarr)**  
 
 ---
 
