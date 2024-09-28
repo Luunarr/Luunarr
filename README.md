@@ -10,14 +10,11 @@
 
 **Voici quelques-uns de mes projets sur lesquels je travaille actuellement :**
 
-1. **[Nom du Projet 1](#)**  
-   Description : Un bref aperçu de ce que fait le projet, les technologies utilisées et son objectif.  
+1. **[DirHunt](https://github.com/Luunarr/Luunarr)**  
 
-2. **[Nom du Projet 2](#)**  
-   Description : Un bref aperçu de ce que fait le projet, les technologies utilisées et son objectif.  
+2. **[MoonLib](https://github.com/Luunarr/Luunarr)**  
 
-3. **[Nom du Projet 3](#)**  
-   Description : Un bref aperçu de ce que fait le projet, les technologies utilisées et son objectif.  
+3. **[](https://github.com/Luunarr/Luunarr)**  
 
 ---
 
