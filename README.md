@@ -1,10 +1,10 @@
-# 🌜 **Lunar** 🌛
+# `🌚` **Lunar** 
 
-## 🌟 À propos de moi
+## `🌟` À propos de moi
 
 **Salut ! Je suis [Lunar](https://github.com/Luunarr), un jeune développeur passionné en plein apprentissage. Je me concentre principalement sur Python 🐍, tout en explorant d'autres technologies fascinantes pour élargir mes compétences. Toujours à la recherche de nouveaux défis, je travaille actuellement sur des projets personnels pour affiner mes connaissances et créer des solutions utiles. 💻**
 
-## 💬 Me contacter
+## `💬` Me contacter
 
 **Tu as une idée, une question, ou juste envie de discuter ? N'hésite pas à me contacter via Discord !**
 
