@@ -14,7 +14,7 @@
 
 2. **[MoonLib](https://github.com/Luunarr/Luunarr/moonlib)**  
 
-3. **[zNoNa-Shell](https://github.com/Luunarr/Luunarr)**  
+3. **[zNoNa-Shell](https://github.com/Luunarr/zNoNa-Shell)**  
 
 ---
 
