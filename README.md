@@ -1,4 +1,4 @@
-# `🌚` **Lunar** 
+# [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) **Lunar** 
 
 ## `🌟` À propos de moi
 
@@ -22,4 +22,3 @@
 
 **Merci de visiter mon profil ! 🙌 N'hésite pas à me contacter pour échanger sur des projets ou simplement discuter de développement. 😊**
 
-[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
