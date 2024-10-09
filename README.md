@@ -21,3 +21,5 @@
 📩 **Envoyer un message privé** : **[z_8_8_8_8_](https://discord.gg/UkbPNHCs9D)**
 
 **Merci de visiter mon profil ! 🙌 N'hésite pas à me contacter pour échanger sur des projets ou simplement discuter de développement. 😊**
+
+[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
